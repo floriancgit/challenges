@@ -19,6 +19,7 @@ get(URLS['prog']['_langage-tester']) # https://
 
 PIP install
 ```python
+source venv/bin/activate
 pip3 install Pillow
 # or
 python3 -m pip install Pillow

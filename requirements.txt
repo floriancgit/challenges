@@ -2,3 +2,4 @@ requests
 irc
 Pillow
 pytesseract
+numpy
