@@ -1,0 +1,5 @@
+- GPT to identify architecture => 6502
+- dissassemble online => https://masswerk.at/6502/disassembler.html
+- emulate to run online => https://skilldrick.github.io/easy6502/
+- Or GPT to convert to python
+- Memory 90 contents: ['0x4f', '0x52', '0x49', '0x43', '0x41', '0x54', '0x4d', '0x4f', '0x53']
