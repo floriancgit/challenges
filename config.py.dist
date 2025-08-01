@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # coding: utf-8
-COOKIE_KEY = 'XXX'
-COOKIE_VAL = ''
+COOKIE_KEY = '**'
+COOKIE_VAL = '**'
 COOKIE = COOKIE_KEY+'='+COOKIE_VAL
 COOKIE_DICT = {COOKIE_KEY: COOKIE_VAL}
 URLS = {
